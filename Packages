@@ -1,0 +1,77 @@
+Package: com.aaronash.barrel
+Version: 1.9.0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1420
+Depends: firmware(>= 3.1), mobilesubstrate, preferenceloader
+Conflicts: net.limneos.sbrotator (<= 2.1.5)
+Filename: debs/barrel_v1.9.0.2 (1).deb
+Size: 207132
+MD5sum: b8e967f735c3c48ab22df9cc6baea88d
+SHA1: 7c35659fcfdbf339b3d5b260dd7d0e701c7a6df5
+SHA256: d6fe331f36993db0f8ba51576cc611fc7798c30df6d6cfc3826ff33f3e796fd8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
+Description: 3D and other effects on icon pages! A jailbreaking classic.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Aaron Ash (Charybdis) <support@multifl0w.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
+Dev: aaronash
+Icon: file:///Library/PreferenceBundles/threedeeprefs.bundle/threedeeprefs@2x.png
+Name: Barrel
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.zodttd.gpsphone
+Version: 6.6.7
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: debs/gpSPhone_6.6.7.deb
+Size: 1355838
+MD5sum: 2ac22235d72fab48d9d5a2fca51cf1bd
+SHA1: 29f17b99bb4baaaa073a6488a589319d0c0b1d39
+SHA256: 5b8688173632dce156fc398d0c0036aa4727a1f18cc0fd2f3128b700fce6a730
+Section: Games
+Homepage: http://www.zodttd.com
+Description: Fast Gameboy Advance emulator!
+Tag: cydia::commercial
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/gpSPhone_cydiastore.php
+Name: gpSPhone
+
+Package: uk.invoxiplaygames.cydiahttpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk
+Installed-Size: 100
+Depends: cydia, mobilesubstrate, firmware (<< 4.0)
+Filename: debs/cydiahttpatch-1.0.deb
+Size: 2842
+MD5sum: 2100205abecf06d1a7d72d2636e770c4
+SHA1: 26c2c398c93f847aa007a7778b6148e554e395c6
+SHA256: 2c6ff66a0498eea88f786a17b8ca79400ae311a2f5f80d97eaeed44d4fe9d9bf
+Section: Tweaks
+Description: Removes HTTPS from Cydia to use on iOS 3.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/cydiahttpatch.php
+Name: Cydia HTTPatch
+
+Package: uk.invoxiplaygames.tubefixer
+Version: 2.0-152+debug
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Installed-Size: 136
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: debs/tubefixer-2.0-152-RC1.deb
+Size: 27972
+MD5sum: 3099d5610e8e73426a947fcf646fffcf
+SHA1: 8971219e0b2c4dee1632631a72507d387689deb6
+SHA256: 7912801feec7ec8062a39a0187976647da05cfe16026147a65ec2ecd58dd7c00
+Section: Tweaks
+Homepage: http://tubefixer.ovh/
+Description: Package to fix YouTube on iOS 3-5
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/tubefixer.php
+Icon: file:///Library/Application%20Support/uk.invoxiplaygames.tubefixer/tubefixericon.png
+Name: TubeFixer for iOS
+
