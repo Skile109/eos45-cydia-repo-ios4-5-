@@ -5,7 +5,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1420
 Depends: firmware(>= 3.1), mobilesubstrate, preferenceloader
 Conflicts: net.limneos.sbrotator (<= 2.1.5)
-Filename: debs/barrel_v1.9.0.2 (1).deb
+Filename: debs/barrel_v1.9.0.2.deb
 Size: 207132
 MD5sum: b8e967f735c3c48ab22df9cc6baea88d
 SHA1: 7c35659fcfdbf339b3d5b260dd7d0e701c7a6df5
